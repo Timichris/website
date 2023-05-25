@@ -6,9 +6,9 @@ h1 {
 }
 p {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
-    font-size: larger;
+    font-size: medium;
     font-style: normal;
-    font: 400; color: blue;
+    font: 100; color: blue;
 }
 
 h2 {
